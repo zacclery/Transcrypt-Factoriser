@@ -1,13 +1,13 @@
 # Transcrypt-Factoriser
 
-A simple Transcript example that can find the prime factor of an integer in the browser, using Python code converted to Javascript.
+A simple Transcript example that finds the prime factors of a given integer in the browser, using Python code converted to Javascript.
 
 ## Getting Started
 Install transcript module
 ```
 python -m pip install transcrypt
 ```
-clone project cd to directory
+Clone project and cd
 ```
 git clone https://github.com/zacclery/Transcrypt-Factoriser.git && cd ./Transcrypt-Factoriser
 ```
